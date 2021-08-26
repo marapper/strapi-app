@@ -11,11 +11,9 @@
  */
 
 module.exports = {
-  /**
-   * Simple example.
-   * Every monday at 1am.
-   */
-  // '0 1 * * 1': () => {
-  //
-  // }
+  // Generate the sitemap every 5 min
+  '*/5 * * * *': () => {
+    // FIXME UnhandledPromiseRejectionWarning: TypeError [ERR_INVALID_URL]: Invalid URL:
+    strapi.plugins.sitemap.services.sitemap.createSitemap();
+  },
 };

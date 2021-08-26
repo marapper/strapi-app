@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_publication_publications",
+  "info": {
+    "name": "publication",
+    "icon": "bezier-curve"
+  },
+  "options": {},
+  "attributes": {
+    "publish_at": {
+      "type": "datetime"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "kind": "collectionType",
+  "collectionName": "superpages",
+  "info": {
+    "name": "Superpage",
+    "description": ""
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "SEO": {
+      "type": "component",
+      "repeatable": false,
+      "component": "seo.seo"
+    },
+    "Page": {
+      "type": "json",
+      "required": true
+    }
+  }
+}
