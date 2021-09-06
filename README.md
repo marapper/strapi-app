@@ -2,6 +2,16 @@
 
     npm run develop
 
+Запускается на http://localhost:1337/admin
+
+Логин admin@admin.ru - admin
+
+http://localhost:1337/
+
+редактирование глоб. настроек, порльзщователей поломано плагиноьм webpage-builder
+
+
+
 strapi в 3 минуты https://youtu.be/zd0_S_FPzKg
 
 PM https://strapi.io/blog/what-are-process-managers-and-how-to-use-them-with-strapi
