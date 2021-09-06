@@ -1,17 +1,13 @@
 # Strapi application
 
-    npm run build
     npm run develop
-    
 
-
-    npm run develop --watch-admin
-
-A quick description of your strapi application
-
-## Запуск
+strapi в 3 минуты https://youtu.be/zd0_S_FPzKg
 
 PM https://strapi.io/blog/what-are-process-managers-and-how-to-use-them-with-strapi
+
+Планы на 4 A quick description of your strapi application
+
 
 ## Плагины
 
@@ -52,6 +48,6 @@ https://strapi.io/documentation/developer-docs/latest/guides/scheduled-publicati
 
 strapi-plugin-sentry превратить в RUM
 
-strapi-plugin-json-schema 
+strapi-plugin-json-schema
 
 fdnjfdjnj ntcns https://www.npmjs.com/package/strapi-plugin-testing
